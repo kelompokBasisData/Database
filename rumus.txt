@@ -1,0 +1,1 @@
+=IIf([Rata-Rata]>0 And [Rata-Rata]<=50;"D";IIf([Rata-Rata]>50 And [Rata-Rata]<=65;"C";IIf([Rata-Rata]>65 And [Rata-Rata]<=75;"B";IIf([Rata-Rata]>75 And [Rata-Rata]<=85;"B";IIf([Rata-Rata]>85 And [Rata-Rata]<=100;"A";))))
